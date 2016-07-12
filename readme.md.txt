@@ -5,3 +5,5 @@
 Yippie!
 
 new text.
+
+Resolving conflicts
