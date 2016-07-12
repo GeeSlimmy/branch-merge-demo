@@ -6,4 +6,6 @@ Yippie!
 
 new text.
 
-Resolving conflicts
+
+Resolving Conflicts.
+
